@@ -13,4 +13,4 @@ In this project, the globe is solved using 3 algorithms: <br/>
 2. A* Algorithm (ASTAR) <br/>
 3. Recursive Breadth First Search (RBFS) <br/>
 
-Algorithm can be changed by changing the 'ALGORITHM' environment varible in '.env' file. 
+Algorithm can be changed by changing the 'ALGORITHM' environment variable in '.env' file. 
